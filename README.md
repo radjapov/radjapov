@@ -64,8 +64,18 @@ I care about:
 
 ## 🧪 Cyber Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=radjapov&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=radjapov&theme=tokyonight&hide_border=true" />
+  <!-- main stats (github-readme-stats). Replace username if needed -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=radjapov&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+
+  <!-- streaks sometimes unstable — use as optional backup. If it fails, remove this line -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=radjapov&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<!-- Backup badges (always reliable) -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/radjapov?label=followers&style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/github/last-commit/radjapov/fraud_detection?style=for-the-badge" alt="last commit" />
+  <img src="https://img.shields.io/github/languages/top/radjapov/fraud_detection?style=for-the-badge" alt="top language" />
 </p>
 
 ---
