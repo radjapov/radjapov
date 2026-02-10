@@ -62,17 +62,6 @@ I care about:
 
 ---
 
-## 🧪 Cyber Stats  
-
-<!-- Backup badges (always reliable) -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/radjapov?label=followers&style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/github/last-commit/radjapov/fraud_detection?style=for-the-badge" alt="last commit" />
-  <img src="https://img.shields.io/github/languages/top/radjapov/fraud_detection?style=for-the-badge" alt="top language" />
-</p>
-
----
-
 ## ⚙ Fun fact  
 My brain has two modes: **lazy** and **overclocked**.  
 There’s no in-between 😅  
